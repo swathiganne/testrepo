@@ -1,0 +1,2 @@
+FROM jenkins
+MAINTAINER Swathi "swathiganne@gmail.com"
